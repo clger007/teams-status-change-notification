@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Page Translator",
+  "version": "2.0.0",
+  "description": "Translate web pages and improve accessibility",
+  "permissions": [
+    "tabs",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://teams.microsoft.com/*",
+    "http://localhost:9876/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-grey-16.png",
+      "48": "icon-grey-48.png",
+      "128": "icon-grey-128.png"
+    }
+  }
+}

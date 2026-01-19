@@ -1,0 +1,13 @@
+target/
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Sensitive config files
+.teams_notifier_bark.json
+.teams_notifier_state.json
+.teams_notifier_keepalive.json
+.teams_notifier_status_alert.json
