@@ -1,5 +1,6 @@
 # Teams Status Change Notification
-
+THIS IS AN END-TO-END VIBE-CODED PROJECT. 
+Just for learning purposes, use it at your own risk.
 Get instant notifications on your iPhone when your Microsoft Teams status changes from "Available" to any other status (Away, Busy, Do Not Disturb).
 
 Perfect for remote workers who want to stay aware of their Teams presence status without constantly checking the app.
